@@ -7,10 +7,11 @@
 ### Persona 1: Reader
 
 **Name:** younus
+
 **Age:** 22  
 
 #### Personal Background
-- 
+
 - Curious about technology and startups
 - Undergraduate student
 - Prefers consuming content rather than interacting
@@ -38,6 +39,7 @@
 ### Persona 2: Contributor
 
 **Name:** Suhail 
+
 **Age:** 22
 
 #### Personal Background
