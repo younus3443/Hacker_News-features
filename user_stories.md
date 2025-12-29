@@ -30,8 +30,4 @@
 
 - As a user, I want to view Jobs.
 
-#### Moderation (Admin)
-
-- As an admin, I want to delete spam posts.
-- As an admin, I want to ban users.
 
