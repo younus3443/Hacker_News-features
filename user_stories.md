@@ -12,7 +12,6 @@
 
 #### Voting
 - As a user, I want to upvote a post.
-- As a user, I want to upvote a comment.
 - As a user, I should be able to vote only once per item.
 
 #### Comments
@@ -29,5 +28,8 @@
 #### Jobs
 
 - As a user, I want to view Jobs.
+
+#### search box
+- To search article
 
 
